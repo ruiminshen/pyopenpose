@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+.project
+.pydevproject
+.settings/
+.idea/
+.cache/
